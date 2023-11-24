@@ -27,7 +27,7 @@ a = float(input("Masukkan nilai a: "))
 b = float(input("Masukkan nilai b: "))
 
 # Memanggil fungsi sesuai dengan pilihan pengguna
-if choice == 1:
+if choice == 1: # a
     result = funcTambah(a, b)
 elif choice == 2:
     result = funcKurang(a, b)
