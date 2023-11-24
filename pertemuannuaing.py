@@ -1,0 +1,1 @@
+print("abi hoyong lebet robotik sas pls")
